@@ -4,7 +4,7 @@ def factorial(n):
         f = f * i
     return f
 
-num = int(input("Enter value : "))
+num = int(input("Enter a value : "))
 
 fac = factorial(num)
 print(fac)
